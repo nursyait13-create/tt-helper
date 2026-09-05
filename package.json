@@ -1,1 +1,8 @@
-{ "name": "tt-helper", "version": ".10.0", "private": true, "scripts": { "start "":node tt-download-helper.js" } }
+{
+  "name": "tt-helper",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
